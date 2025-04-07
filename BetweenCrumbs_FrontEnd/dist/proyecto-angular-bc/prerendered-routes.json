@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/contact",
+    "/login",
+    "/recipes",
+    "/register",
+    "/who-are-we"
+  ]
+}
