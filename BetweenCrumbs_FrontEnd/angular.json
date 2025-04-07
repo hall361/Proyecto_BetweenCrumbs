@@ -63,12 +63,15 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "Between_Crumbs:build"
+          },
           "configurations": {
             "production": {
-              "buildTar_:production"
+              "browserTarget": "Between_Crumbs:build:production"
             },
             "development": {
-              "buildTar_:development"
+              "browserTarget": "Between_Crumbs:build:development"
             }
           },
           "defaultConfiguration": "development"
