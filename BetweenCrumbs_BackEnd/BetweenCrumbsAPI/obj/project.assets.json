@@ -1250,11 +1250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj",
       "projectName": "BetweenCrumbsAPI",
-      "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj",
+      "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj",
       "packagesPath": "C:\\Users\\hall3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\obj\\",
+      "outputPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1276,11 +1276,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj": {
-              "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj"
+            "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj": {
+              "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj"
             },
-            "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj": {
-              "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj"
+            "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj": {
+              "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj"
             }
           }
         }

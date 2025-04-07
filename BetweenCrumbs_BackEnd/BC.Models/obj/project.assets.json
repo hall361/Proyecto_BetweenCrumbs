@@ -172,11 +172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj",
+      "projectUniqueName": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj",
       "projectName": "BC.Models",
-      "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj",
+      "projectPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj",
       "packagesPath": "C:\\Users\\hall3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\obj\\",
+      "outputPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "At8w6gwARNo=",
+  "dgSpecHash": "ZXEcuT2Xf+Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj",
+  "projectFilePath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\BC.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hall3\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\hall3\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
