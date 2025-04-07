@@ -1,0 +1,24 @@
+<div class="register-container">
+    <h2 class="register-title">Login</h2>
+    <form formGroup="registerForm" (ngSubmit)="onSubmit()">
+
+      <div class="form-group">
+        <label for="correoElectronico">Email</label>
+        <input id="correoElectronico" formControlName="correoElectronico" type="email" placeholder="Ingrese su correo electrónico" />
+        <!-- <div *ngIf="registerForm.get('correoElectronico')?.invalid && registerForm.get('correoElectronico')?.touched" class="error-message">
+          Ingrese un correo electrónico válido.
+        </div> -->
+      </div>
+  
+      <div class="form-group">
+        <label for="contrasena">Password</label>
+        <input id="contrasena" formControlName="contrasena" type="password" placeholder="Ingrese su contraseña" />
+        <!-- <div *ngIf="registerForm.get('contrasena')?.invalid && registerForm.get('contrasena')?.touched" class="error-message">
+          La contraseña debe tener al menos 6 caracteres.
+        </div> -->
+      </div>
+  
+      <button type="submit">User Login</button>
+      <!-- <button type="submit" [disabled]="registerForm.invalid">Crear Usuario</button> -->
+    </form>
+  </div>

@@ -1,0 +1,6 @@
+mat-grid-tile{
+    background-color: rgb(247, 247, 115);
+}
+mat-grid-tile-footer button{
+    margin: 0.05rem; 
+}

@@ -1,0 +1,19 @@
+<h1>Recipes</h1>
+<mat-grid-list cols="5" gutterSize="10px">
+    @if(mealView){
+        <mat-grid-tile *ngFor="let meal of mealView.meals">
+            <mat-grid-tile-header>{{meal.strMeal}}</mat-grid-tile-header>
+            <img [src]="meal.strMealThumb" alt="">
+            <mat-grid-tile-footer>
+                    <div fxLayout="row" fxLayoutAlign="center center">
+                        <button mat-raised-button [routerLink]="['recipedetails', meal.idMeal]">View</button>
+                    </div>
+                    <div fxLayout="row" fxLayoutAlign="center center">
+                        <button mat-raised-button>Add to favorites</button>
+                    </div>
+            </mat-grid-tile-footer>
+        </mat-grid-tile>   
+    }
+</mat-grid-list>
+
+

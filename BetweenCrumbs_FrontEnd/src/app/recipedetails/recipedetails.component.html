@@ -1,0 +1,84 @@
+@if (mealDetailsView) {
+    <div *ngFor="let meal of mealDetailsView?.meals">
+        <h1>{{meal.strMeal}}</h1>
+        <mat-grid-list cols="3" *ngIf="meal" gutterSize="10px">
+            <mat-grid-tile colspan="2" >
+                <img [src]="meal.strMealThumb" alt="">
+            </mat-grid-tile>
+            <mat-grid-tile >
+                <mat-grid-tile-header>Recipe description</mat-grid-tile-header>
+                <ul>
+                    <li><h2>Category:</h2></li>
+                    <h3>{{meal.strCategory}}</h3>
+                    <li><h2>Area:</h2></li>
+                    <h3>{{meal.strArea}}</h3>
+                </ul>
+                <!-- <h2>Category: </h2><br>
+                <h3>{{meal.strCategory}}</h3>
+                <h2>Area:</h2><br>
+                <h3>{{meal.strArea}}</h3><br> -->
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-grid-tile-header>Ingredients</mat-grid-tile-header>
+                <div>
+                    <ul>
+                        @if (meal.strIngredient1) {<li>({{meal.strMeasure1}}) {{meal.strIngredient1}}</li> }
+                        @if (meal.strIngredient2) {<li>({{meal.strMeasure2}}) {{meal.strIngredient2}}</li> }
+                        @if (meal.strIngredient3) {<li>({{meal.strMeasure3}}) {{meal.strIngredient3}}</li> }
+                        @if (meal.strIngredient4) {<li>({{meal.strMeasure4}}) {{meal.strIngredient4}}</li>}
+                        @if (meal.strIngredient4) {<li>({{meal.strMeasure4}}) {{meal.strIngredient4}}</li>}
+                        @if (meal.strIngredient5) {<li>({{meal.strMeasure5}}) {{meal.strIngredient5}}</li>}
+                        @if (meal.strIngredient6) {<li>({{meal.strMeasure6}}) {{meal.strIngredient6}}</li>}
+                        @if (meal.strIngredient7) {<li>({{meal.strMeasure7}}) {{meal.strIngredient7}}</li>}
+                    </ul>
+                </div>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-grid-tile-header>Ingredients 2</mat-grid-tile-header>
+                <div>
+                    <ul>
+                        @if (meal.strIngredient8) {<li>({{meal.strMeasure8}}) {{meal.strIngredient8}}</li>}
+                        @if (meal.strIngredient9) {<li>({{meal.strMeasure9}}) {{meal.strIngredient9}}</li>}
+                        @if (meal.strIngredient10) {<li>({{meal.strMeasure10}}) {{meal.strIngredient10}}</li> }
+                        @if (meal.strIngredient11) {<li>({{meal.strMeasure11}}) {{meal.strIngredient11}}</li> }
+                        @if (meal.strIngredient12) {<li>({{meal.strMeasure12}}) {{meal.strIngredient12}}</li> }
+                        @if (meal.strIngredient13) {<li>({{meal.strMeasure13}}) {{meal.strIngredient13}}</li> }
+                        @if (meal.strIngredient14) {<li>({{meal.strMeasure14}}) {{meal.strIngredient14}}</li> }
+                        @if (meal.strIngredient15) {<li>({{meal.strMeasure15}}) {{meal.strIngredient15}}</li> }               
+                        @if (meal.strIngredient16) {<li>({{meal.strMeasure16}}) {{meal.strIngredient16}}</li> }
+                        @if (meal.strIngredient17) {<li>({{meal.strMeasure17}}) {{meal.strIngredient17}}</li> }
+                        @if (meal.strIngredient18) {<li>({{meal.strMeasure18}}) {{meal.strIngredient18}}</li> }
+                        @if (meal.strIngredient19) {<li>({{meal.strMeasure19}}) {{meal.strIngredient19}}</li> }
+                        @if (meal.strIngredient20) {<li>({{meal.strMeasure20}}) {{meal.strIngredient20}}</li> }
+                    </ul>
+                </div>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-grid-tile-header>Ingredients 3</mat-grid-tile-header>
+                <div>
+                    <ul>
+                        @if (meal.strIngredient15) {<li>({{meal.strMeasure15}}) {{meal.strIngredient15}}</li> }               
+                        @if (meal.strIngredient16) {<li>({{meal.strMeasure16}}) {{meal.strIngredient16}}</li> }
+                        @if (meal.strIngredient17) {<li>({{meal.strMeasure17}}) {{meal.strIngredient17}}</li> }
+                        @if (meal.strIngredient18) {<li>({{meal.strMeasure18}}) {{meal.strIngredient18}}</li> }
+                        @if (meal.strIngredient19) {<li>({{meal.strMeasure19}}) {{meal.strIngredient19}}</li> }
+                        @if (meal.strIngredient20) {<li>({{meal.strMeasure20}}) {{meal.strIngredient20}}</li> }
+                    </ul>
+                </div>
+            </mat-grid-tile>
+            <mat-grid-tile colspan="3" >
+                <mat-grid-tile-header>Instructions</mat-grid-tile-header>
+                <p>{{meal.strInstructions}}</p>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-grid-tile-header>Video tutorial</mat-grid-tile-header>
+                <a [href]="meal.strYoutube" target="_blank">Click on link to view recipe video tutorial</a>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-grid-tile-header>Back to recipes</mat-grid-tile-header>
+                <a mat-stroked-button routerLink="/recipes">Back to recipes</a>
+            </mat-grid-tile>
+        </mat-grid-list>
+    </div>
+}
+

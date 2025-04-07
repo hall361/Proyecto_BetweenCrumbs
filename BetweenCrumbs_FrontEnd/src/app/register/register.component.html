@@ -1,0 +1,40 @@
+<div class="register-container">
+    <h2 class="register-title">Register</h2>
+    <form formGroup="registerForm" (ngSubmit)="onSubmit()">
+  
+      <div class="form-group">
+        <label for="idUsuario">ID User</label>
+        <input id="idUsuario" formControlName="idUsuario" type="text" placeholder="Ingrese su ID de usuario" />
+        <!-- <div *ngIf="registerForm.get('idUsuario')?.invalid && registerForm.get('idUsuario')?.touched" class="error-message">
+          El ID de usuario es obligatorio.
+        </div> -->
+      </div>
+  
+      <div class="form-group">
+        <label for="nombreUsuario">Name User</label>
+        <input id="nombreUsuario" formControlName="nombreUsuario" type="text" placeholder="Ingrese su nombre de usuario" />
+        <!-- <div *ngIf="registerForm.get('nombreUsuario')?.invalid && registerForm.get('nombreUsuario')?.touched" class="error-message">
+          El nombre de usuario es obligatorio.
+        </div> -->
+      </div>
+  
+      <div class="form-group">
+        <label for="correoElectronico">Email</label>
+        <input id="correoElectronico" formControlName="correoElectronico" type="email" placeholder="Ingrese su correo electrónico" />
+        <!-- <div *ngIf="registerForm.get('correoElectronico')?.invalid && registerForm.get('correoElectronico')?.touched" class="error-message">
+          Ingrese un correo electrónico válido.
+        </div> -->
+      </div>
+  
+      <div class="form-group">
+        <label for="contrasena">Password</label>
+        <input id="contrasena" formControlName="contrasena" type="password" placeholder="Ingrese su contraseña" />
+        <!-- <div *ngIf="registerForm.get('contrasena')?.invalid && registerForm.get('contrasena')?.touched" class="error-message">
+          La contraseña debe tener al menos 6 caracteres.
+        </div> -->
+      </div>
+  
+      <button type="submit">Create user</button>
+      <!-- <button type="submit" [disabled]="registerForm.invalid">Crear Usuario</button> -->
+    </form>
+  </div>

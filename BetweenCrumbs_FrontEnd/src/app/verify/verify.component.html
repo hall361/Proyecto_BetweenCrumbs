@@ -1,0 +1,22 @@
+<div class="verify-container">
+    <h2>Verificación de Usuario</h2>
+    
+    <div class="captcha-box">
+      <p class="captcha-text">
+        <!-- Mostramos los 6 dígitos generados del CAPTCHA -->
+        <span *ngFor="let digit of captchaDigits">{{ digit }} </span>
+      </p>
+    </div>
+  
+    <form formGroup="verifyForm" (ngSubmit)="onSubmit()">
+      <label for="verificationCode">Ingrese la suma de los dígitos:</label>
+      <input id="verificationCode" formControlName="verificationCode" type="text" placeholder="Ingrese la suma" />
+  
+      <!-- Mensaje de error si la suma es incorrecta -->
+      <div *ngIf="verifyForm.get('verificationCode')?.hasError('incorrect')" class="error-message">
+        La suma ingresada es incorrecta. Inténtelo de nuevo.
+      </div>
+  
+      <button type="submit" [disabled]="verifyForm.invalid">Verificar</button>
+    </form>
+  </div>
