@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 using BC.Models.Dtos.Menu;
 using System.Collections.Generic;
 using BC.Application.Interfaces;
-using BC.Application.Services;
 
 namespace BetweenCrumbsAPI.Controllers
 {
@@ -20,6 +19,11 @@ namespace BetweenCrumbsAPI.Controllers
             _service = service;
         }
 
+        /// <summary>
+        /// Obtiene el menú personalizado de un usuario.
+        /// </summary>
+        /// <param name="IdUsuario">ID del usuario.</param>
+        /// <returns>Una lista de objetos MenuResponseDto.</returns>
         [HttpGet("ObtenerMenuPorUsuario")]
         public async Task<ResponseDto<List<MenuResponseDto>>> ObtenerMenuPorUsuario([FromQuery] string IdUsuario)
         {

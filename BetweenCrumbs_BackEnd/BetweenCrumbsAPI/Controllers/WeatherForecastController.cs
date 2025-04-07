@@ -18,6 +18,10 @@ namespace BetweenCrumbsAPI.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// Obtiene un pronóstico del clima.
+        /// </summary>
+        /// <returns>Una lista de objetos WeatherForecast.</returns>
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
