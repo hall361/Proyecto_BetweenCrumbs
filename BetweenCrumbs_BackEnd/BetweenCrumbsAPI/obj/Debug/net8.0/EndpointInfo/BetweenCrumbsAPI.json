@@ -1,0 +1,555 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "BetweenCrumbsAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Favoritos/CrearFavorito": {
+      "post": {
+        "tags": [
+          "Favoritos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FavoritosRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FavoritosRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FavoritosRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanNullableResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanNullableResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanNullableResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Favoritos/ObtenerFavoritos": {
+      "get": {
+        "tags": [
+          "Favoritos"
+        ],
+        "parameters": [
+          {
+            "name": "IdUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoritosResponseDtoListResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoritosResponseDtoListResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoritosResponseDtoListResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Favoritos/BorrarFavorito": {
+      "delete": {
+        "tags": [
+          "Favoritos"
+        ],
+        "parameters": [
+          {
+            "name": "IdUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "IdRecipe",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Menu/ObtenerMenuPorUsuario": {
+      "get": {
+        "tags": [
+          "Menu"
+        ],
+        "parameters": [
+          {
+            "name": "IdUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/MenuResponseDtoListResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MenuResponseDtoListResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MenuResponseDtoListResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Usuario/CrearUsuario": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/UsuarioIngresoResponseDtoResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UsuarioIngresoResponseDtoResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UsuarioIngresoResponseDtoResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Usuario/AgregarCodigoVerificacionForgot": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "correoUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Usuario/VerificarUsuario": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "usuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "codigoVerificacion",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Usuario/ValidarCodigoUsuarioForgot": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "correoUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "codigoVerificacion",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BooleanNullableResponseDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "boolean"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          },
+          "data": {
+            "type": "boolean",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DateOnly": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "month": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "day": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dayOfWeek": {
+            "$ref": "#/components/schemas/DayOfWeek"
+          },
+          "dayOfYear": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "dayNumber": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DayOfWeek": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "FavoritosRequestDto": {
+        "type": "object",
+        "properties": {
+          "idRecipe": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreRecipe": {
+            "type": "string",
+            "nullable": true
+          },
+          "idUsuario": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "FavoritosResponseDto": {
+        "type": "object",
+        "properties": {
+          "idFavorito": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idRecipe": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreRecipe": {
+            "type": "string",
+            "nullable": true
+          },
+          "idUsuario": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "FavoritosResponseDtoListResponseDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "boolean"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/FavoritosResponseDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MenuResponseDto": {
+        "type": "object",
+        "properties": {
+          "idModulo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreModulo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MenuResponseDtoListResponseDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "boolean"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MenuResponseDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UsuarioIngresoResponseDto": {
+        "type": "object",
+        "properties": {
+          "idUsuario": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UsuarioIngresoResponseDtoResponseDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "boolean"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          },
+          "data": {
+            "$ref": "#/components/schemas/UsuarioIngresoResponseDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UsuarioRequestDto": {
+        "type": "object",
+        "properties": {
+          "idUsuario": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreUsuario": {
+            "type": "string",
+            "nullable": true
+          },
+          "correoElectronico": {
+            "type": "string",
+            "nullable": true
+          },
+          "contrasena": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "$ref": "#/components/schemas/DateOnly"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

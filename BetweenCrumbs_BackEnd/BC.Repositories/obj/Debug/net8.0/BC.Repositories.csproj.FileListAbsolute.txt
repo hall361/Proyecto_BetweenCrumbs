@@ -1,0 +1,80 @@
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.deps.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repos.6038042C.Up2Date
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\refint\BC.Repositories.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\ref\BC.Repositories.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repos.6038042C.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\refint\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\ref\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repos.6038042C.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\refint\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\ref\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repos.6038042C.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\refint\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BC.Repositories\obj\Debug\net8.0\ref\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\bin\Debug\net8.0\BC.Repositories.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repos.6038042C.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\refint\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Repositories\obj\Debug\net8.0\ref\BC.Repositories.dll

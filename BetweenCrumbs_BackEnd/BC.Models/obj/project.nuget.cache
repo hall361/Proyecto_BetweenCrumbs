@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5F0tnXQVkJU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Models\\BC.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hall3\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hall3\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\hall3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hall3\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

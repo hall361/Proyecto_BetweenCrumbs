@@ -1,0 +1,1 @@
+# Ecriptador_Cadena_Conexion

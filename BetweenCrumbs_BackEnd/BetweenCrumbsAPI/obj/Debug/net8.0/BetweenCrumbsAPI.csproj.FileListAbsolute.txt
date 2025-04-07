@@ -1,0 +1,250 @@
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.exe
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.deps.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.runtimeconfig.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BetweenCrumbsAPI.props
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\scopedcss\bundle\BetweenCrumbsAPI.styles.css
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.sourcelink.json
+C:\Users\Usuario\source\repos\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.staticwebassets.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\scopedcss\bundle\BetweenCrumbsAPI.styles.css
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Angular\BetweenCrumbs\BetweenCrumbsAPI\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.staticwebassets.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\scopedcss\bundle\BetweenCrumbsAPI.styles.css
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\BetweenCrumb_F_B\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.staticwebassets.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\scopedcss\bundle\BetweenCrumbsAPI.styles.css
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbsAPI\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.staticwebassets.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Application.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\bin\Debug\net8.0\BC.Repositories.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\scopedcss\bundle\BetweenCrumbsAPI.styles.css
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.BetweenCrumbsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

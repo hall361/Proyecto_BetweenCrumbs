@@ -1,0 +1,66 @@
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.exe
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.deps.json
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.runtimeconfig.json
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.Form1.resources
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\refint\WinEncryBtcr.dll
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\ref\WinEncryBtcr.dll
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.exe
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.deps.json
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.runtimeconfig.json
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.Form1.resources
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.GenerateResource.cache
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfoInputs.cache
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfo.cs
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\refint\WinEncryBtcr.dll
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.genruntimeconfig.cache
+C:\Users\hall3\Downloads\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\ref\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.Form1.resources
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.GenerateResource.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\refint\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\C#\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\ref\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.exe
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.runtimeconfig.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\bin\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.Form1.resources
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.GenerateResource.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\refint\WinEncryBtcr.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\WinEncryBtcr.genruntimeconfig.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\Ecriptador_Cadena_Conexion\WinEncryBtcr\WinEncryBtcr\obj\Debug\net8.0-windows\ref\WinEncryBtcr.dll

@@ -1,0 +1,206 @@
+[
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.FavoritosController",
+    "Method": "BorrarFavorito",
+    "RelativePath": "api/Favoritos/BorrarFavorito",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdRecipe",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.FavoritosController",
+    "Method": "CrearFavorito",
+    "RelativePath": "api/Favoritos/CrearFavorito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favorito",
+        "Type": "BC.Models.Dtos.Favoritos.FavoritosRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BC.Models.Dtos.ResponseDto\u00601[[System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.FavoritosController",
+    "Method": "ObtenerFavoritos",
+    "RelativePath": "api/Favoritos/ObtenerFavoritos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BC.Models.Dtos.ResponseDto\u00601[[System.Collections.Generic.List\u00601[[BC.Models.Dtos.Favoritos.FavoritosResponseDto, BC.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.MenuController",
+    "Method": "ObtenerMenuPorUsuario",
+    "RelativePath": "api/Menu/ObtenerMenuPorUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BC.Models.Dtos.ResponseDto\u00601[[System.Collections.Generic.List\u00601[[BC.Models.Dtos.Menu.MenuResponseDto, BC.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.UsuarioController",
+    "Method": "AgregarCodigoVerificacionForgot",
+    "RelativePath": "api/Usuario/AgregarCodigoVerificacionForgot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "correoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.UsuarioController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/Usuario/CrearUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioIngreso",
+        "Type": "BC.Models.Dtos.Usuario.UsuarioRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BC.Models.Dtos.ResponseDto\u00601[[BC.Models.Dtos.Usuario.UsuarioIngresoResponseDto, BC.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.UsuarioController",
+    "Method": "ValidarCodigoUsuarioForgot",
+    "RelativePath": "api/Usuario/ValidarCodigoUsuarioForgot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "correoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigoVerificacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.UsuarioController",
+    "Method": "VerificarUsuario",
+    "RelativePath": "api/Usuario/VerificarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigoVerificacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BetweenCrumbsAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BetweenCrumbsAPI.WeatherForecast, BetweenCrumbsAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

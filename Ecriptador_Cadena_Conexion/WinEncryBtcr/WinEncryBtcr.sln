@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinEncryBtcr", "WinEncryBtcr\WinEncryBtcr.csproj", "{CEBAA0A7-E70E-4112-9811-F6599C98DEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBAA0A7-E70E-4112-9811-F6599C98DEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBAA0A7-E70E-4112-9811-F6599C98DEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBAA0A7-E70E-4112-9811-F6599C98DEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBAA0A7-E70E-4112-9811-F6599C98DEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329C32C8-F983-4C5E-8044-952107834B62}
+	EndGlobalSection
+EndGlobal
