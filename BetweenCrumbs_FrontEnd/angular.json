@@ -64,14 +64,14 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "Between_Crumbs:build"
+            "buildTarget": "Between_Crumbs:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "Between_Crumbs:build:production"
+              "buildTarget": "Between_Crumbs:build:production"
             },
             "development": {
-              "browserTarget": "Between_Crumbs:build:development"
+              "buildTarget": "Between_Crumbs:build:development"
             }
           },
           "defaultConfiguration": "development"
