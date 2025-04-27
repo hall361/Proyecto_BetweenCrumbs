@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
@@ -60,20 +60,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FavoritosController.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
               "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T01:07:02.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.json",

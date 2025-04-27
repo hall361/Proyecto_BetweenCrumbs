@@ -3,112 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\services\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\services\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\services\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\services\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\services\\favoritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\services\\favoritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\interfaces\\ifavoritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\ifavoritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\interfaces\\ifavoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\interfaces\\ifavoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\utilities\\services\\secural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\utilities\\services\\secural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.repositories\\utilities\\interfaces\\isecural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\utilities\\interfaces\\isecural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\usuario\\usuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\usuario\\usuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\favoritos\\favoritosresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\favoritos\\favoritosresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\services\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\services\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\favoritos\\favoritosrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\favoritos\\favoritosrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|solutionrelative:bc.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\menu\\menuresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\menu\\menuresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\usuario\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\usuario\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\bc.models\\dtos\\usuario\\usuariocodigoverificacionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DCDC07-98F6-4547-BC35-EE81662388C9}|BC.Models\\BC.Models.csproj|solutionrelative:bc.models\\dtos\\usuario\\usuariocodigoverificacionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\proyecto_betweencrumbs\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,330 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Program.cs",
-              "RelativeToolTip": "BetweenCrumbsAPI\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:09:07.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
-              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAkAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-15T17:54:31.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FavoritosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\FavoritosRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Services\\FavoritosRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\FavoritosRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Services\\FavoritosRepository.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAApwGQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:40:28.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Services\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Services\\UsuarioRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:36:04.852Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Services\\MenuRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Services\\MenuRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIAxwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:26:08.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFavoritosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:40:58.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:20:55.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:35:40.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
-              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T21:17:15.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFavoritosService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Interfaces\\IFavoritosService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
-              "RelativeToolTip": "BC.Application\\Interfaces\\IFavoritosService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:39:32.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISecural.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "RelativeToolTip": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:15:05.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FavoritosController.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:37:09.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Secural.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Services\\Secural.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Utilities\\Services\\Secural.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Services\\Secural.cs",
-              "RelativeToolTip": "BC.Repositories\\Utilities\\Services\\Secural.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAcwFYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T16:54:16.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyAAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:20:14.798Z"
+              "WhenOpened": "2025-04-08T01:07:05.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "BC.Application\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:27:17.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsuarioRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioRequestDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Usuario\\UsuarioRequestDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioRequestDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioRequestDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAASwAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:24:08.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\ResponseDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\ResponseDto.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:50:54.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\MenuController.cs",
               "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\MenuController.cs",
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBkAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:43:59.871Z"
+              "WhenOpened": "2025-04-08T01:07:03.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\MenuService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Services\\MenuService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\MenuService.cs",
-              "RelativeToolTip": "BC.Application\\Services\\MenuService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAABlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FavoritosController.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:50:14.752Z"
+              "WhenOpened": "2025-04-08T01:07:02.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FavoritosResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Favoritos\\FavoritosResponseDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Favoritos\\FavoritosResponseDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Favoritos\\FavoritosResponseDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Favoritos\\FavoritosResponseDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:50:25.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IMenuService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Interfaces\\IMenuService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IMenuService.cs",
-              "RelativeToolTip": "BC.Application\\Interfaces\\IMenuService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:49:59.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FavoritosService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\FavoritosService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Services\\FavoritosService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Services\\FavoritosService.cs",
-              "RelativeToolTip": "BC.Application\\Services\\FavoritosService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwB0AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:39:15.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FavoritosRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Favoritos\\FavoritosRequestDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Favoritos\\FavoritosRequestDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Favoritos\\FavoritosRequestDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Favoritos\\FavoritosRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:49:26.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "BC.Application\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:27:00.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MenuResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Menu\\MenuResponseDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Menu\\MenuResponseDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Menu\\MenuResponseDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Menu\\MenuResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:56:10.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UsuarioResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioResponseDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Usuario\\UsuarioResponseDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioResponseDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:14:38.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UsuarioCodigoVerificacionResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioCodigoVerificacionResponseDto.cs",
-              "RelativeDocumentMoniker": "BC.Models\\Dtos\\Usuario\\UsuarioCodigoVerificacionResponseDto.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BC.Models\\Dtos\\Usuario\\UsuarioCodigoVerificacionResponseDto.cs",
-              "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioCodigoVerificacionResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:22.612Z"
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\Proyecto_BetweenCrumbs\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
+              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T17:54:31.221Z",
+              "EditorCaption": ""
             }
           ]
         }
