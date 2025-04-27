@@ -63,3 +63,16 @@ C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\refint\BC.Models.dll
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.pdb
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\ref\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\bin\Debug\net8.0\BC.Models.deps.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\bin\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\bin\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.csproj.AssemblyReference.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.AssemblyInfoInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.AssemblyInfo.cs
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.csproj.CoreCompileInputs.cache
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.sourcelink.json
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\refint\BC.Models.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\BC.Models.pdb
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\Proyecto_BetweenCrumbs\BetweenCrumbs_BackEnd\BC.Models\obj\Debug\net8.0\ref\BC.Models.dll
